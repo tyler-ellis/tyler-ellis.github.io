@@ -306,7 +306,8 @@ a.active {
 }
 
 .about-img-div img {
-    margin: 0 auto;
+    margin: 100 auto;
+    margin-top: 155px;
 }
 
 .about-border {
@@ -314,7 +315,7 @@ a.active {
     border: 10px solid #425BB5;
     width: 410px;
     height: 550px;
-    top: 30px;
+    top: 190px;
     left: 200px;
     z-index: 1
 }
