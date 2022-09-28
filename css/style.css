@@ -14,8 +14,8 @@
 	- Header -
     - home section -
     - About section -
+    - Education section
     - experience section -
-    - education section - 
     - projects section -
     - Contact section -
     - Responsive media queries -
@@ -164,6 +164,7 @@ body {
         margin-top: -18.75px;
         margin-left: -7.95px
     }
+
 }
 
 @media only screen and (min-width:1200px) {
@@ -180,6 +181,7 @@ body {
         margin-left: -10.6px
     }
 }
+
 
 @-webkit-keyframes rotation {
     from {
@@ -319,6 +321,7 @@ a.active {
     top: 190px;
     left: 200px;
     z-index: 1
+
 }
 
 
@@ -925,4 +928,6 @@ fieldset {
     nav li a {
         font-size: 10px;
     }
+
+
 }
